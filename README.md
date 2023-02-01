@@ -26,7 +26,7 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 <a style="margin-left: 10px;"  target="_blank" href="mailto:sumcelik960@gmail.com" >
-    			<img src="https://img.icons8.com/clouds/100/null/apple-mail.png" weight="40px" heigth="40px"/></a>
+    			<img src="https://img.icons8.com/clouds/100/null/apple-mail.png" width="40" height="40"/></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sumeyyecelik/">
 			<img src="https://img.icons8.com/clouds/100/null/linkedin.png"/></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Sumeyye-Celik">
