@@ -26,13 +26,13 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 <a style="margin-left: 10px;"  target="_blank" href="mailto:sumcelik960@gmail.com" >
-    			<img src="https://img.icons8.com/clouds/100/null/apple-mail.png" width="40" height="40"/></a>
+    			<img src="https://img.icons8.com/clouds/100/null/apple-mail.png" width="70" height="70"/></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sumeyyecelik/">
-			<img src="https://img.icons8.com/clouds/100/null/linkedin.png"/></a>
+			<img src="https://img.icons8.com/clouds/100/null/linkedin.png" width="70" height="70"/></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Sumeyye-Celik">
-		<img src="https://img.icons8.com/clouds/100/null/github.png"/></a>
+		<img src="https://img.icons8.com/clouds/100/null/github.png" width="70" height="70"/></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ssumeyyecelk/">
-			<img src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png"/></a>
+			<img src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png" width="70" height="70"/></a>
 	</div>
 
 </p>
