@@ -30,7 +30,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Sumeyye-Celik">
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ssumeyyecelk/">
-			<img src="https://img.icons8.com/cloud/40/000000/instagram-new--v2.png"></a>
+			<img src="https://icons8.com/icon/hFoVFpm6gl9A/instagram"></a>
 		      </div>
 
 </p>
