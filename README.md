@@ -25,13 +25,15 @@
  <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
+	 <a style="margin-left: 10px;"  target="_blank" href="mailto:sumcelik960@gmail.com" >
+    			<img src="https://img.icons8.com/clouds/100/null/apple-mail.png"/></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sumeyyecelik/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+			<img src="https://img.icons8.com/clouds/100/null/linkedin.png"/></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Sumeyye-Celik">
-		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
+		<img src="https://img.icons8.com/clouds/100/null/github.png"/></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ssumeyyecelk/">
 			<img src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png"/></a>
-		      </div>
+	</div>
 
 </p>
  
