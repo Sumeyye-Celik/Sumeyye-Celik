@@ -15,17 +15,17 @@
  
  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
  
- <img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
+ <img align='right' src='https://spotify-github-profile.trinity8899.app/api/view?uid=122096382&cover_image=true&theme=default'/>
  
  
- | <h3 align='center' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> 
+ | <h3 align='left' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> 
 	 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
  	<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 	<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=blue" />
-	<img alt="Sklearn" src="https://img.shields.io/badge/sklearn%20-%23013243.svg?&style=for-the-badge&logo=sklearn&logoColor=red" />
+	<img alt="Sklearn" src="https://img.shields.io/badge/scikit-learn%20-%23013243.svg?&style=for-the-badge&logo=scikit-learn&logoColor=red" />
  	<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  	<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
- 	<img alt="Google Search Console" src="https://img.shields.io/badge/googlesearchconsole%20-%23458CF5?style=for-the-badge&logo=Google-Search-Console&logoColor=white"/>  <br><br>
+ 	<!--<img alt="Google Search Console" src="https://img.shields.io/badge/googlesearchconsole%20-%23458CF5?style=for-the-badge&logo=Google-Search-Console&logoColor=white"/> --> <br><br>
 |---|
  
  <p align="center">
