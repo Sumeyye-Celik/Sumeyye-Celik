@@ -29,8 +29,8 @@
     			<img src="https://img.icons8.com/clouds/100/null/apple-mail.png" width="70" height="70"/></a>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sumeyyecelik/">
 			<img src="https://img.icons8.com/clouds/100/null/linkedin.png" width="70" height="70"/></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ssumeyyecelk/">
-			<img src="https://img.icons8.com/clouds/100/null/instagram-new--v3.png" width="70" height="70"/></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@sumeyyecelik">
+			<img src="(https://icons8.com/icon/VlAoafiMkWGe/medium" width="70" height="70"/></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Sumeyye-Celik">
 		<img src="https://img.icons8.com/clouds/100/null/github.png" width="70" height="70"/></a>
 	</div>
