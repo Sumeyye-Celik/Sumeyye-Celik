@@ -14,6 +14,16 @@
  -->
  
  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+ ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"> About Me
+ 🎓 I graduated in computer engineering.
+ 🔭 I’m currently working on Data Science.
+ 🌱 I’m currently learning Machine Learning and Deep Learning
+ 🧐 I'm interested in NLP and LLM 
+
+<p align='right'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
  
  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)  ![Scit-Learn](https://img.shields.io/badge/scikit-learn%20-%23013243.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
