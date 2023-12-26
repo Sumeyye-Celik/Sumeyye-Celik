@@ -13,12 +13,13 @@
 
  -->
  
+
+ ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <p align='right'>
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
  
- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"> About Me
  - 🎓 I graduated in computer engineering.
  - 🔭 I’m currently working on Data Science.
